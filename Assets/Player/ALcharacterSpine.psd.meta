@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 46ba5c29913ed48459973bbaaef4bbf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8272041391027257429
+    second: ALcharacterSpine_0
+  - first:
+      213: -5899193482750824277
+    second: ALcharacterSpine_1
+  - first:
+      213: 2211228027437691833
+    second: ALcharacterSpine_2
+  - first:
+      213: 312156176880785232
+    second: ALcharacterSpine_3
+  - first:
+      213: -4073458081209251494
+    second: ALcharacterSpine_4
+  - first:
+      213: -8194356178553392233
+    second: ALcharacterSpine_5
+  - first:
+      213: 753090330727085340
+    second: ALcharacterSpine_6
+  - first:
+      213: -3471316588216467427
+    second: ALcharacterSpine_7
+  - first:
+      213: 4375554639909749139
+    second: ALcharacterSpine_8
+  - first:
+      213: 722872155852726917
+    second: ALcharacterSpine_9
+  - first:
+      213: -154730153929542985
+    second: ALcharacterSpine_10
+  - first:
+      213: -3431479267352425532
+    second: ALcharacterSpine_11
+  - first:
+      213: 5084637058719935890
+    second: ALcharacterSpine_12
+  - first:
+      213: -4404095493059395420
+    second: ALcharacterSpine_13
+  - first:
+      213: 5562240596363870448
+    second: ALcharacterSpine_14
+  - first:
+      213: -3464969374617405140
+    second: ALcharacterSpine_15
+  - first:
+      213: 3297362581589128521
+    second: ALcharacterSpine_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALcharacterSpine_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 563
+        width: 197
+        height: 439
+      alignment: 9
+      pivot: {x: 0.6162476, y: 0.8934347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329cc204a16fe7498fc7ae44f22b4c4
+      internalID: -8272041391027257429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 542
+        width: 147
+        height: 462
+      alignment: 9
+      pivot: {x: 0.465867, y: 0.92980933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6ca389f8e758c4bbf8bac48b549dab
+      internalID: -5899193482750824277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 7
+        width: 203
+        height: 1067
+      alignment: 9
+      pivot: {x: 0.50602835, y: 0.85479116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1602797cbc3a743b81318bef781f04
+      internalID: 2211228027437691833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 885
+        width: 181
+        height: 156
+      alignment: 9
+      pivot: {x: 0.31816277, y: 0.43898988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2810dfa1b0fb2489a36faf64772cb7
+      internalID: 312156176880785232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_4
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 829
+        width: 175
+        height: 244
+      alignment: 9
+      pivot: {x: 0.4269036, y: 0.23601444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b5df65fae68a048bae91868832f850
+      internalID: -4073458081209251494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_5
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 905
+        width: 250
+        height: 141
+      alignment: 9
+      pivot: {x: 0.6536958, y: 0.51880616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3231af63b255479089c59c0e00650
+      internalID: -8194356178553392233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_6
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 563
+        width: 207
+        height: 300
+      alignment: 9
+      pivot: {x: 0.1729353, y: 0.87678325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95089e8e3bfdf094cad33302d1032aad
+      internalID: 753090330727085340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_7
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 19
+        width: 364
+        height: 785
+      alignment: 9
+      pivot: {x: 0.5943473, y: 0.38860935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36bc07134d8216428e936f2f6bcdf97
+      internalID: -3471316588216467427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_8
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 521
+        width: 210
+        height: 308
+      alignment: 9
+      pivot: {x: 0.77079844, y: 0.8489564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba49ba4792eca44d987a90f898be6fb
+      internalID: 4375554639909749139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 19
+        width: 208
+        height: 459
+      alignment: 9
+      pivot: {x: 0.35917383, y: 0.9121504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e21749e6327a644bbacde89edf2b1b
+      internalID: 722872155852726917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 17
+        width: 188
+        height: 441
+      alignment: 9
+      pivot: {x: 0.480172, y: 0.91055864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6a6628398c6a49abcdb1839735bd6
+      internalID: -154730153929542985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_11
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 313
+        width: 158
+        height: 227
+      alignment: 9
+      pivot: {x: 0.43343344, y: 0.6719344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660cc88ee2e29db4ab14d8daefc22b2f
+      internalID: -3431479267352425532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_12
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 226
+        width: 138
+        height: 267
+      alignment: 9
+      pivot: {x: 0.49624944, y: 0.59458745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9021d48fa2e506e498acd6d4eb65f4c9
+      internalID: 5084637058719935890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_13
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 118
+        width: 123
+        height: 189
+      alignment: 9
+      pivot: {x: 0.40361655, y: 0.84319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f168877be59340839ed63517547f2
+      internalID: -4404095493059395420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_14
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 215
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c955cf2a835e4786b91c8b2a3c0e9
+      internalID: 5562240596363870448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_15
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 47
+        width: 130
+        height: 144
+      alignment: 9
+      pivot: {x: 0.2514207, y: 0.87548625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2fb2455907ce46b0965d3ac03ffb1
+      internalID: -3464969374617405140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALcharacterSpine_16
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 5
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc65920adbe3b468937fa5e04dcce9
+      internalID: 3297362581589128521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
